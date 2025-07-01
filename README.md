@@ -1,6 +1,6 @@
 
 # Expense Tracker
-!([http://url/to/img.png](https://github.com/PCB-IT/expense-tracker/blob/master/images/Expense%20Tracker%20Demo.png))
+![alt-text]([http://url/to/img.png](https://github.com/PCB-IT/expense-tracker/blob/master/images/Expense%20Tracker%20Demo.png))
 
 This is a flet desktop application for built to track day to day expenses.
 ## Features
