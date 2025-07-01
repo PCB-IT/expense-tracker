@@ -28,7 +28,7 @@ Flet is a Python framework that lets you build web, desktop, and mobile apps usi
 - Import and exporting data is also included
 ## Installation
 
-Install File Sync witht the following command:
+Install Expense Tracker with the following command:
 
 ```bash
 pip install 'flet[all]' 
